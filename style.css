@@ -7,14 +7,14 @@ line-height: 25px;}
 td 
 { 
  border-collapse: collapse; 
-/*  border: 1px solid black;  */
+border: 1px solid black; 
  text-align: center; 
 } 
 th 
 { 
  border-collapse: collapse;
  background-color: rgb(26, 177, 89); 
-/*  border: 1px solid black;  */
+ border: 1px solid black;  
 } 
 .head 
 { 
