@@ -12,6 +12,7 @@ td
 } 
 th 
 { 
+ border-collapse: collapse;
  background-color: rgb(26, 177, 89); 
  border: 1.5px solid black; 
 } 
